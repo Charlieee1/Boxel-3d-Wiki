@@ -4,3 +4,4 @@ Access this wiki in pretty form here: <https://charlieee1.github.io/Boxel-3d-Wik
 
 ## Sections
 - [Mechanics](/mechanics/mechanics.md)
+- [Types of levels](/level-types.md)
