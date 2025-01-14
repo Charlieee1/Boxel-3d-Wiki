@@ -9,5 +9,7 @@ Here is a partial list of uses of this mechanic in levels:
 - Other level: ...
 ## History
 This mechanic was discovered by Doppler on the 1st of January, 1563 BC, when he did the first jump.
+## Variants
+This mechanic has no variants.
 ## Fun Facts
 The template mechanic has no fun facts.
