@@ -5,7 +5,7 @@ The player gets the ability to jump when they go from not colliding with a hitbo
 ## Usage
 Here is a partial list of uses of this mechanic in levels:
 - Long Boi: Double jumping off one of the small blocks can be used for speedrunning
-- Jericho: Double jumping off the resize blocks can be used to setup for a [Corner Boost](/mechanics/corner-boost.md)
+- Jericho: Double jumping off the resize blocks can be used to setup for a [Corner Boost](corner-boost.html)
 - Boxel Nomad: Double jumping off the third solid block can be used to avoid some of the ramp
 - Homework: Double jumping can be used for tassing the level
 - Mountain Climb: Double jumping can be used in a lot of places to save time
@@ -34,6 +34,6 @@ Here is a non-exhaustive list of double jump variants:
 Double jumping is the most well known non-trivial platformer mechanic.
 ## Related Mechanics
 Here is a list of mechanics related to double jumping:
-- [Ceiling jump](/mechanics/ceiling-jump.md)
-- [Ramp boost](/mechanics/ceiling-jump.md#variants)
-- [Wall jump](/mechanics/wall-jump.md)
+- [Ceiling jump](ceiling-jump.html)
+- [Ramp boost](ceiling-jump.html#variants)
+- [Wall jump](wall-jump.html)
