@@ -35,5 +35,5 @@ Double jumping is the most well known non-trivial platformer mechanic.
 ## Related Mechanics
 Here is a list of mechanics related to double jumping:
 - [Ceiling jump](/mechanics/ceiling-jump.md)
-- [Ramp boost](/mechanics/ceiling-jump.md#Variants)
+- [Ramp boost](/mechanics/ceiling-jump.md#variants)
 - [Wall jump](/mechanics/wall-jump.md)
