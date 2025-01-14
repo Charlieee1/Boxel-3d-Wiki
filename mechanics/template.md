@@ -13,3 +13,5 @@ This mechanic was discovered by Doppler on the 1st of January, 1563 BC, when he 
 This mechanic has no variants.
 ## Fun Facts
 The template mechanic has no fun facts.
+## Related Mechanics
+The template mechanic is related to the template mechanic 2.
