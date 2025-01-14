@@ -5,6 +5,8 @@ The player gets the ability to jump when they go from not colliding with a hitbo
 ## Usage
 Here is a partial list of uses of this mechanic in levels:
 - Long Boi: Double jumping off one of the small blocks can be used for speedrunning
+- Kargoh's World: Double jumping off on of the pillars for a shortcut
+- Kargoh's Bobsled: Double jumping off of the end of the second ramp for a shortcut
 - Jericho: Double jumping off the resize blocks can be used to setup for a [Corner Boost](corner-boost.html)
 - Boxel Nomad: Double jumping off the third solid block can be used to avoid some of the ramp
 - Homework: Double jumping can be used for tassing the level
@@ -26,6 +28,7 @@ Here is a non-exhaustive list of double jump variants:
 - Double jump off a moving block with platformer (Example use case: double jump off third moving block in Boxel Nomad)
 - Double jump off moving block with cube (Example use case: intended route double jump in Up, Down, and Through)
 - Double jump off side of block from mid-air (Example use case: first jump in Double Jump Hell)
+- Double jump off bottom corner of block from mid-air (Example use case: shortcut in Kargoh's World)
 - Sideways double jump through pass-through block (Example use case: second jump in Double Jump Hell)
 - Double jump through reset block (Example use case: reset block double jump in Double Jump Hell)
 - Double jump off of a self-bouncing moving bounce block (Example use case: Kackiest Kacky #-3)
